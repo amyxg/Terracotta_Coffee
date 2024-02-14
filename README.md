@@ -17,7 +17,7 @@ good first impression
 <strong>2. Login/Register </strong>
 
 - Includes form to sign in (email/password)
-- Purpose :provides users/admin a log in feature to see personal information (reward 
+- Purpose: provides users/admin a log in feature to see personal information (reward 
 points, past orders, CC updated information if needed, etc). This increases business 
 interaction and give users a sense of loyalty to the business. This also helps provides
 the business to access their email/phone for marketing purposes, if they agree to 
@@ -26,7 +26,7 @@ terms of conditions.
 <strong>4. Rewards </strong>
 
 - Image + link for plants on sale with corresponding reward point needed
-- Purpose :Users are able to join a loyalty program as a way to attract and retain 
+- Purpose: Users are able to join a loyalty program as a way to attract and retain 
 customers. This will encourage customers to interact more with the business. Special
 incentives (discounts, merch, etc) allow business to have repeat clients, which can 
 assist in a business growth. 
