@@ -25,7 +25,7 @@ terms of conditions.
   
 <strong>4. Rewards </strong>
 
-- Image + link for plants on sale with corresponding reward point needed
+- Image + table for reward description for loyalty reward members
 - Purpose: Users are able to join a loyalty program as a way to attract and retain 
 customers. This will encourage customers to interact more with the business. Special
 incentives (discounts, merch, etc) allow business to have repeat clients, which can 
