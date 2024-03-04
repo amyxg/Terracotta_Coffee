@@ -1,9 +1,48 @@
+
+
+.main-container{
+    max-width: 1440px;
+    margin: 0 auto;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.207),0 2px 2px rgba(0, 0, 0, 0.207);
+}
+
+.section{
+    display: flex;
+    margin-bottom: 32px;
+	padding: 10px;
+}
+.section .image {
+    width: 50%;
+    display: flex;
+}
+.section .image img {
+    width: 100%;
+}
+
+.tcRewards {
+	padding: 50px;
+}
+
 table {
     border-collapse: collapse;
     border: 2px solid black;
     font-family: sans-serif;
-    font-size: 0.8rem;
     letter-spacing: 1px;
+	width: 45%
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+tr {
+	border: solid;
+	border-width: 1px 0;
+}
+
+tbody span {
+	color: #ec8600;
 }
 
 caption {
@@ -14,4 +53,12 @@ caption {
 
 thead {
     background-color: #ffa60070;
+}
+
+caption {
+	text-align: end;
+}
+
+a:link , a:visited{
+	color: black;
 }
